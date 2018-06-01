@@ -1,0 +1,95 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Arithmetic.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Balelec.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Circuits.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\ConcertsPlanner.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Arithmetic.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Balelec.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Circuits.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\ConcertsPlanner.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Arithmetic.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Balelec.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Circuits.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\ConcertsPlanner.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Arithmetic.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Balelec.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Circuits.scala, C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\ConcertsPlanner.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Scala sources to C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.5[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.11.5. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.5  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_fa1ef35[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_112\lib\resources.jar;C:\Program Files\Java\jre1.8.0_112\lib\rt.jar;C:\Program Files\Java\jre1.8.0_112\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_112\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_112\lib\jce.jar;C:\Program Files\Java\jre1.8.0_112\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_112\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_112\classes;C:\Users\Samuel\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\.sbt\boot\scala-2.10.6\org.scala-sbt\sbt\0.13.13\xsbti\interface-0.13.13.jar;C:\Users\Samuel\AppData\Local\Temp\sbt_f4d1a282\srcs\org.scala-sbt\compiler-interface\compiler-interface-0.13.13-sources.jar;C:\Users\Samuel\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.11.5.jar;C:\Users\Samuel\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.5.jar;C:\Users\Samuel\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.3.jar;C:\Users\Samuel\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.3.jar;C:\Users\Samuel\.ivy2\cache\jline\jline\jars\jline-2.12.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\API.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\Command.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\Compat.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\Log.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\Message.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\AppData\Local\Temp\sbt_e62fbab8\xsbt\ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 51.454 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2f0361ed, interfacing (CompilerInterface) with Scala compiler version 2.11.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-optimise[0m
+[0m[[0mdebug[0m] [0m	-Yinline-warnings[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_112\lib\resources.jar;C:\Program Files\Java\jre1.8.0_112\lib\rt.jar;C:\Program Files\Java\jre1.8.0_112\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_112\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_112\lib\jce.jar;C:\Program Files\Java\jre1.8.0_112\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_112\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_112\classes;C:\Users\Samuel\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\target\scala-2.11\classes;C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\lib\cafesat_2.11-0.01.jar[0m
+[0m[[33mwarn[0m] [0mC:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Arithmetic.scala:57: Could not inline required method dropWhile because access level required by callee not matched by caller.[0m
+[0m[[33mwarn[0m] [0m    val temp = x.zip(y).dropWhile{t => t._1 == t._2}[0m
+[0m[[33mwarn[0m] [0m                                 ^[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 83.13439138 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Arithmetic.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Arithmetic.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Arithmetic.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Arithmetic.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Arithmetic.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, fullAdder, Arithmetic, wait, $asInstanceOf, lessEquals, binary2int, lessEqualsConst, sameLength, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, int2binary, adder, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Balelec.scala: Set(Arithmetic, lessEquals, equals, asInstanceOf, isInstanceOf, int2binary, adder, ==, toString, ne, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Balelec.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Balelec.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Balelec.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Balelec.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Balelec.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, curried, name, wait, copy$default$2, $asInstanceOf, compose, atMostMaxTrue, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, Balelec, andThen, tupled, canEqual, productPrefix, notifyAll, isInstanceOf, Volunteer, <init>, apply, ==, clone, schedule, $init$, countPositiveBits, copy, toString, !=, getClass, copy$default$1, ne, eq, Task, productIterator, ##, finalize, productElement, hashCode, capacity.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Circuits.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Circuits.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Circuits.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Circuits.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\Circuits.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, solveExample, Circuits, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\ConcertsPlanner.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\ConcertsPlanner.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\ConcertsPlanner.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\ConcertsPlanner.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Samuel\Dropbox\EPFL\BA 3-4\Functional programing\constraints-assignment\src\main\scala\constraints\ConcertsPlanner.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, name, ConcertsPlanner, wait, $asInstanceOf, compose, productArity, equals, Band, asInstanceOf, synchronized, getAllSlots, $isInstanceOf, andThen, canEqual, productPrefix, notifyAll, isInstanceOf, <init>, apply, ==, clone, $init$, copy, toString, Slot, !=, time, getClass, copy$default$1, Stage, ne, eq, Time, productIterator, plan, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
